@@ -1,0 +1,11 @@
+C:\Users\Owen Fujii\source\repos\SayMyNameAgain\bin\Debug\SayMyNameAgain.exe.config
+C:\Users\Owen Fujii\source\repos\SayMyNameAgain\bin\Debug\SayMyNameAgain.exe
+C:\Users\Owen Fujii\source\repos\SayMyNameAgain\bin\Debug\SayMyNameAgain.pdb
+C:\Users\Owen Fujii\source\repos\SayMyNameAgain\bin\Debug\SayMyNameAgain.xml
+C:\Users\Owen Fujii\source\repos\SayMyNameAgain\obj\Debug\SayMyNameAgain.vbproj.AssemblyReference.cache
+C:\Users\Owen Fujii\source\repos\SayMyNameAgain\obj\Debug\SayMyNameAgain.Resources.resources
+C:\Users\Owen Fujii\source\repos\SayMyNameAgain\obj\Debug\SayMyNameAgain.vbproj.GenerateResource.cache
+C:\Users\Owen Fujii\source\repos\SayMyNameAgain\obj\Debug\SayMyNameAgain.vbproj.CoreCompileInputs.cache
+C:\Users\Owen Fujii\source\repos\SayMyNameAgain\obj\Debug\SayMyNameAgain.exe
+C:\Users\Owen Fujii\source\repos\SayMyNameAgain\obj\Debug\SayMyNameAgain.xml
+C:\Users\Owen Fujii\source\repos\SayMyNameAgain\obj\Debug\SayMyNameAgain.pdb
